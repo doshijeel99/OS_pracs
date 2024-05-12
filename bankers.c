@@ -1,4 +1,3 @@
-// Vatsal Kotha C1-2  Vatsal Kotha
 #include <stdio.h>
 int main()
 {
